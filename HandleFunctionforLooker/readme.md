@@ -5,3 +5,4 @@ um dataSet no googleLookerstudio.
 link para visualizar o relatório: https://lookerstudio.google.com/reporting/f4096aad-7057-4d4f-92a6-4eca18ae34c9
 
 obs. as funções são obtidas alterando o arquivo 'funcaoSegundoGrau'
+obs. terminar de fazer a visualização de dados.
